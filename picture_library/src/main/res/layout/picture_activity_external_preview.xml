@@ -10,7 +10,7 @@
         android:id="@+id/rl_title"
         android:layout_width="match_parent"
         android:layout_height="48dp"
-        android:background="?attr/picture.ac_preview.title.bg">
+        android:background="?attr/picture_ac_preview_title_bg">
 
         <ImageButton
             android:id="@+id/left_back"
@@ -18,7 +18,7 @@
             android:layout_height="match_parent"
             android:layout_centerVertical="true"
             android:background="@color/transparent"
-            android:src="?attr/picture.preview.leftBack.icon"
+            android:src="?attr/picture_preview_leftBack_icon"
             android:visibility="visible" />
 
         <TextView
@@ -29,7 +29,7 @@
             android:layout_centerVertical="true"
             android:ellipsize="end"
             android:maxEms="11"
-            android:textColor="?attr/picture.ac_preview.title.textColor"
+            android:textColor="?attr/picture_ac_preview_title_textColor"
             android:textSize="18sp" />
 
     </RelativeLayout>

@@ -23,7 +23,7 @@
             android:layout_height="12dp"
             android:layout_alignParentRight="true"
             android:layout_margin="4dp"
-            android:background="?attr/picture.folder_checked_dot"
+            android:background="?attr/picture_folder_checked_dot"
             android:visibility="invisible" />
 
     </RelativeLayout>

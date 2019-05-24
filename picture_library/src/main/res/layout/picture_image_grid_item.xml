@@ -23,7 +23,7 @@
             android:id="@+id/check"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="?attr/picture.checked.style"
+            android:background="?attr/picture_checked_style"
             android:gravity="center"
             android:textColor="@color/white"
             android:textSize="12sp" />

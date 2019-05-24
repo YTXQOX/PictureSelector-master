@@ -33,8 +33,8 @@
     <attr name="picture_statusFontColor" format="boolean" />
     <attr name="picture_style_numComplete" format="boolean" />
     <attr name="picture_style_checkNumMode" format="boolean" />
-    <attr name="picture_crop.toolbar_bg" format="reference|color" />
-    <attr name="picture_crop.status_color" format="reference|color" />
-    <attr name="picture_crop.title_color" format="reference|color" />
+    <attr name="picture_crop_toolbar_bg" format="reference|color" />
+    <attr name="picture_crop_status_color" format="reference|color" />
+    <attr name="picture_crop_title_color" format="reference|color" />
     <attr name="picture_folder_checked_dot" format="reference" />
 </resources>
