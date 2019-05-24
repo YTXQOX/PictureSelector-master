@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+
+    <attr name="picture_title_textColor" format="reference|color" />
+    <attr name="picture_right_textColor" format="reference|color" />
+    <attr name="picture_leftBack_icon" format="reference" />
+    <attr name="picture_arrow_down_icon" format="reference" />
+    <attr name="picture_arrow_up_icon" format="reference" />
+    <attr name="picture_num_style" format="reference" />
+    <attr name="picture_checked_style" format="reference" />
+    <attr name="picture_bottom_bg" format="reference|color" />
+    <attr name="picture_preview_textColor" format="reference|color" />
+    <attr name="picture_complete_textColor" format="reference|color" />
+    <attr name="picture_ac_preview_title_textColor" format="reference|color" />
+    <attr name="picture_ac_preview_complete_textColor" format="reference|color" />
+    <attr name="picture_ac_preview_bottom_bg" format="reference|color" />
+    <attr name="picture_status_color" format="reference|color" />
+    <attr name="picture_ac_preview_title_bg" format="reference|color" />
+    <attr name="picture_preview_leftBack_icon" format="reference" />
+    <attr name="picture_statusFontColor" format="boolean" />
+    <attr name="picture_style_numComplete" format="boolean" />
+    <attr name="picture_style_checkNumMode" format="boolean" />
+    <attr name="picture_crop.toolbar_bg" format="reference|color" />
+    <attr name="picture_crop.status_color" format="reference|color" />
+    <attr name="picture_crop.title_color" format="reference|color" />
+    <attr name="picture_folder_checked_dot" format="reference" />
+</resources>
